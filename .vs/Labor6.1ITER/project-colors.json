@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da5a9e40-3122-460e-8a0e-53bac772293c": {
+      "ProjectGuid": "da5a9e40-3122-460e-8a0e-53bac772293c",
+      "DisplayName": "Labor6.1ITER",
+      "ColorIndex": 0
+    },
+    "a407914a-0040-4c3e-9dcd-6cd6346a1041": {
+      "ProjectGuid": "a407914a-0040-4c3e-9dcd-6cd6346a1041",
+      "DisplayName": "UnitTest6.1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
